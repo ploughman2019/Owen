@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Owen @ploughman2019
+- 👋 Hi, I’m Owen
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python,HTML,CSS
 - 💞️ I hope I can find a software develop job one day
